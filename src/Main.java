@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int anoDeLancamento = 2022;
         boolean incluidoNoPlano = true;
+        double notaDoFilme = 8.1;
         double media = (9.8 + 6.3 + 8) / 3;
         System.out.println(media);
         String sinopse;
@@ -17,9 +18,8 @@ public class Main {
         """.formatted(anoDeLancamento) ;
         System.out.println(sinopse);
 
-        //Casting
         int classificacao;
-        classificacao = (int) media / 2;
+        classificacao = (int) media / 2; // casting explícito
         System.out.println(classificacao);
 
     }
