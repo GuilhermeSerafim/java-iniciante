@@ -2,16 +2,8 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Esse é o Screen Match");
-        System.out.println("Filme: Top Gun: Maverick");
-
         int anoDeLancamento = 2022;
-        System.out.println("Ano de lançamento: " + anoDeLancamento);
         boolean incluidoNoPlano = true;
-        int num = 5;
-        int resultado = num++; //num é atribuído primeiramente à variável resultado e depois incrementado para 6
-        System.out.println(num); // imprime 6
-        System.out.println(resultado); // imprime 5
         double media = (9.8 + 6.3 + 8) / 3;
         System.out.println(media);
         String sinopse;
@@ -20,8 +12,15 @@ public class Main {
         Filme Top Gun
         Filme de aventura com galã dos anos 80
         Muito bom!
-        Ano de Lançamento
+        Ano de lançamento: %d
+        ------------------
+        """.formatted(anoDeLancamento) ;
         System.out.println(sinopse);
+
+        //Casting
+        int classificacao;
+        classificacao = (int) media / 2;
+        System.out.println(classificacao);
 
     }
 }
