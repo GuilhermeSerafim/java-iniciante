@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb84a11-6d17-41d6-8844-5c3ef044b7c7" name="Changes" comment="Trabalhando com condicionais">
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+    <list default="true" id="7eb84a11-6d17-41d6-8844-5c3ef044b7c7" name="Changes" comment="Aprendendo a usar o Scanner">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698070734018</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aprendendo a usar o Scanner">
+      <option name="closed" value="true" />
+      <created>1698072013060</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698072013060</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -89,6 +98,7 @@
     <MESSAGE value="Declarando variaveis, utilizando text block" />
     <MESSAGE value="Aprendendo sobre formatação e casting" />
     <MESSAGE value="Trabalhando com condicionais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com condicionais" />
+    <MESSAGE value="Aprendendo a usar o Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo a usar o Scanner" />
   </component>
 </project>
