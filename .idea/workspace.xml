@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb84a11-6d17-41d6-8844-5c3ef044b7c7" name="Changes" comment="Fazendo jogo da adivinhação utilizando oq aprendemos na aula">
-      <change afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7eb84a11-6d17-41d6-8844-5c3ef044b7c7" name="Changes" comment="Realizando o challenger java basico - ContaBancaria" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698077375266</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Realizando o challenger java basico - ContaBancaria">
+      <option name="closed" value="true" />
+      <created>1698082354590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698082354590</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +129,7 @@
     <MESSAGE value="Aprendendo a usar o Scanner" />
     <MESSAGE value="Entendendo como o while funciona" />
     <MESSAGE value="Fazendo jogo da adivinhação utilizando oq aprendemos na aula" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fazendo jogo da adivinhação utilizando oq aprendemos na aula" />
+    <MESSAGE value="Realizando o challenger java basico - ContaBancaria" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizando o challenger java basico - ContaBancaria" />
   </component>
 </project>
